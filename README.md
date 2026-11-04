@@ -1,6 +1,6 @@
 # Biblioteca pessoal em Prolog
 
-Carolina Panizzi, Isabella Zarosa e Paulo Trevisan
+Autores: Carolina Panizzi, Isabella Zarosa e Paulo Trevisan
 
 Implementação do Trabalho 2 em um único arquivo de entrega: `biblioteca_pessoal.pl`.
 

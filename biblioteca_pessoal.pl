@@ -1,4 +1,6 @@
 /*
+ * Integrantes: Carolina Panizzi, Paulo Trevisan, Isabella Zarosa
+ * 
  * Consultas de exemplo:
  *   ?- livros_por_autor('Machado de Assis', Titulo).
  *   ?- livros_antigos(1900, Titulo).
